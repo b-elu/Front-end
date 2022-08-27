@@ -1,5 +1,18 @@
-*
-{
-    background-color: rgb(6, 39, 71);
-   
+body {
+    background-color: rgb(152, 247, 228);
+ }
+ h1 {
+    color: rgb( 121, 97, 255);
+ }
+ h2 {
+   color: rgb( 121, 97, 255);
+}
+h3 {
+   color: rgb( 121, 97, 255);
+}
+p{
+   color: rgb(167, 152, 251)
+}
+ul{
+   color: rgb(167, 152, 251)
 }
