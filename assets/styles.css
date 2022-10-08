@@ -1,8 +1,10 @@
 body {
     background-color: rgb(152, 247, 228);
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
  }
  h1 {
     color: rgb( 121, 97, 255);
+
  }
  h2 {
    color: rgb( 121, 97, 255);
