@@ -41,6 +41,7 @@ color:rgb(208, 0, 112)
  body{
     background-attachment: fixed;
     background-image: url(/assets/img/fondo.jpg);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
  }
 
  .fondo-acerca{
